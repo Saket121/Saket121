@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saket Khandelwal
 - 👀 I’m interested in Web Development and Problem-Solving.
-- 🌱 I’m currently learning MERN stack and DSA.
+- 🌱 I’m currently learning JAVA(Backend)/SpringBoot and DSA.
 - 💞️ I’m looking to collaborate on projects assosciated with full-stack web development.
 - 📫 How to reach me LinkedIn: https://www.linkedin.com/in/saket-khandelwal-743388200
 
